@@ -36,7 +36,7 @@ $ curl localhost:8080/persons
 and can create new ones using a POST:
 
 ```sh
-$ curl -x POST -H "Content-Type:application/json" -d '{ "firstName" : "Karl", "lastName" : "Penzhorn" }' localhost:8080/persons
+$ curl -X POST -H "Content-Type:application/json" -d '{ "firstName" : "Karl", "lastName" : "Penzhorn" }' localhost:8080/persons
 ```
 
 ### Todo
