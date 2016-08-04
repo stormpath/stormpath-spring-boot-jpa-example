@@ -1,6 +1,6 @@
 # CRUD App with Spring Boot
 
-This is the code developed in the tutorial on creating a flexible CRUD app with Spring Boot.
+This is the code developed in the tutorial (https://stormpath.com/blog/tutorial-crud-spring-boot-20-minutes) on creating a flexible CRUD app with Spring Boot.
 
 It features full REST compliance and an embedded database.
 
